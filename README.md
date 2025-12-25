@@ -1,5 +1,5 @@
 <H1 align="center">
-YOLOv7 Segmentation with DeepSORT Tracking </H1>
+WATT WASTE AUTOMATED WASTE SEGREGATION USING YOLOv7 Segmentation with DeepSORT Tracking </H1>
 
 
 I have implemented the YOLOv7 Segmantation with DeepSORT Tracking, please support by giving a star.
